@@ -47,3 +47,4 @@ paginate = 5
     name = "Контакты"
     url = "/contact/"
     weight = 30
+
