@@ -2,7 +2,7 @@ baseURL = "https://hyrahmo-e2m.pages.dev/"
 languageCode = "ru"
 title = "Hyrahmo"
 theme = "PaperMod"
-paginate = 5
+paginate = 10
 
 [params]
   author = "hyrahmo"
